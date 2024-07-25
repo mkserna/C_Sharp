@@ -1,0 +1,14 @@
+C:\Users\MARIANA\OneDrive\Escritorio\RIWI\Development\C#\Workshop03\bin\Debug\net8.0\Workshop03.exe
+C:\Users\MARIANA\OneDrive\Escritorio\RIWI\Development\C#\Workshop03\bin\Debug\net8.0\Workshop03.deps.json
+C:\Users\MARIANA\OneDrive\Escritorio\RIWI\Development\C#\Workshop03\bin\Debug\net8.0\Workshop03.runtimeconfig.json
+C:\Users\MARIANA\OneDrive\Escritorio\RIWI\Development\C#\Workshop03\bin\Debug\net8.0\Workshop03.dll
+C:\Users\MARIANA\OneDrive\Escritorio\RIWI\Development\C#\Workshop03\bin\Debug\net8.0\Workshop03.pdb
+C:\Users\MARIANA\OneDrive\Escritorio\RIWI\Development\C#\Workshop03\obj\Debug\net8.0\Workshop03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIANA\OneDrive\Escritorio\RIWI\Development\C#\Workshop03\obj\Debug\net8.0\Workshop03.AssemblyInfoInputs.cache
+C:\Users\MARIANA\OneDrive\Escritorio\RIWI\Development\C#\Workshop03\obj\Debug\net8.0\Workshop03.AssemblyInfo.cs
+C:\Users\MARIANA\OneDrive\Escritorio\RIWI\Development\C#\Workshop03\obj\Debug\net8.0\Workshop03.csproj.CoreCompileInputs.cache
+C:\Users\MARIANA\OneDrive\Escritorio\RIWI\Development\C#\Workshop03\obj\Debug\net8.0\Workshop03.dll
+C:\Users\MARIANA\OneDrive\Escritorio\RIWI\Development\C#\Workshop03\obj\Debug\net8.0\refint\Workshop03.dll
+C:\Users\MARIANA\OneDrive\Escritorio\RIWI\Development\C#\Workshop03\obj\Debug\net8.0\Workshop03.pdb
+C:\Users\MARIANA\OneDrive\Escritorio\RIWI\Development\C#\Workshop03\obj\Debug\net8.0\Workshop03.genruntimeconfig.cache
+C:\Users\MARIANA\OneDrive\Escritorio\RIWI\Development\C#\Workshop03\obj\Debug\net8.0\ref\Workshop03.dll
