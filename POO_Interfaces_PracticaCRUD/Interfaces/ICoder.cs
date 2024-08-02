@@ -7,9 +7,9 @@ namespace POO_Interfaces_PracticaCRUD.Interfaces
 {
     public interface ICoder
     {
-        public void Crear(Coder coder);
-        public void Editar(Coder coder);
-        public void Eliminar(Coder coder);  
-        public List<Coder> ObtenerTodos();
+        public void Crear();
+        public void Editar();
+        public void Eliminar();  
+        public void ObtenerTodos();
     }
 }

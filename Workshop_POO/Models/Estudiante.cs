@@ -15,7 +15,8 @@ namespace Workshop_POO.Models
         string nombreAcudiente,
         string cursoActual,
         DateOnly fechaNacimiento,
-        List<double> calificaciones) : Persona(nombre,
+        List<double> calificaciones) 
+        : Persona(nombre,
         apellido,
         tipoDeDocumento,
         numeroDocumento,
